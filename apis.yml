@@ -25,7 +25,7 @@ type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2025-02-24'
-modified: '2025-02-24'
+modified: '2026-03-16'
 position: Consuming
 description: >-
   Aviyair is a young and innovative aerospace company that specializes in
@@ -40,5 +40,5 @@ description: >-
   constantly pushing the boundaries of what is possible with drone technology.
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
 specificationVersion: '0.19'
