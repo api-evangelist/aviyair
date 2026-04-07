@@ -4,8 +4,7 @@ url: >-
 apis:
   - aid: aviyair:aviyair
     name: Aviyair
-    tags:
-      - API
+    tags: []
     humanURL: ' https://aviyair.com/'
     properties:
       - url: ' https://aviyair.com/'
