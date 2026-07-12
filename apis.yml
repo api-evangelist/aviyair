@@ -38,6 +38,8 @@ maintainers:
   email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
+- type: DomainSecurity
+  url: security/aviyair-domain-security.yml
 - type: Portal
   url: https://aviyair.com/aviation-api/
 - type: GitHubOrganization
