@@ -1,0 +1,21 @@
+# Front Door AI Index — aviyair — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: aviyair
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: aviyair.com
+  final_host: aviyair.com
+  ownership: own
+  owner: aviyair
+  shares_host_with: null
+  inherited_from: null
+  verdict: unmeasured
+  score: null
+  host_score: null
+  density: null
+  words: null
+  tiers: null
+  ambiguous: null
+  top_terms: null
