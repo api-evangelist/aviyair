@@ -15,7 +15,6 @@ apis:
     type: Documentation
   description: Aviyair API provides global flight data including real-time flight tracking and status,
     historical flight data, airline schedules, IATA and ICAO codes, routes, and delay information.
-  baseURL: https://aviyair.com/
 name: Aviyair
 tags:
 - Airlines
